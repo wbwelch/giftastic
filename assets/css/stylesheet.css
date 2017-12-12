@@ -22,3 +22,23 @@ body {
   Typogrophy
  ========================================
 */
+p {
+	padding: 5px;
+}
+
+
+/*
+ ========================================
+  Grid
+ ========================================
+*/
+.dyn-div {
+	display: inline-block;
+	padding: 5px;
+}
+button, 
+input,
+label {
+	margin: 5px;
+}
+
