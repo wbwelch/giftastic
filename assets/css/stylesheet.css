@@ -10,12 +10,16 @@ html {
 		height: 100%;
 }
 body {
-	background-image: url();
+	background-image: url(../images/vintage-leaves.png);
 	ackground-size: 100%;
 	min-height: 100%;
 	width: 100%;
 	position: absolute;
 	height: auto;
+}
+button {
+	background-color: #724A4B;
+	color: white;
 }
 /*
  ========================================
@@ -40,5 +44,6 @@ button,
 input,
 label {
 	margin: 5px;
+	padding: 10px;
 }
 
